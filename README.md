@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### :fire: My Stats :
-![Github stats](https://github-readme-stats.vercel.app/api?username=nyasagupta27&theme=dark&background=000000)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=nyasagupta27&theme=dark&background=000000)]
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nyasagupta27&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyasagupta27&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyasagupta27&layout=compact&theme=vision-friendly-dark)]
